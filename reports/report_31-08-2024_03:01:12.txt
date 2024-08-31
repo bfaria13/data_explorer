@@ -1,0 +1,37 @@
+Report for categories = Humanism
+Date: 31-08-2024_03:01:12
+
+## Analysis for Humanism ##:
+> Main descriptive text:
+This book is very dense with facts & figures, and concepts that take me some thinking in order to fully grasp. Don't get me wrong, I love it! But I think it will take me some time to finish reading! An excellent resource for understanding the philisophical worldview today.
+> Sentiment Analysis: ('positive', (0.811, 'neutral'))
+> Main Points list:
+[['philisophical worldview today', 'fully grasp'], ['writing class papers', 'also contains several chapters'], ['pathetic negativism ", mainly', 'irony got quite scant reviews'], ['sometimes cause one', 'agnostic friends'], ['provide good reference material', 'generally little known facts'], ['monotheism actually spur scientific thought', 'still use radio metric dating'], ['public schools', 'american public via national geographic'], ['unknowingly call', 'true account'], ['college class could create', 'half ago ..... whows'], ['using true scientific approaches', 'every single facet'], ['fit two books', 'many great books available'], ['valuable resource available', 'underlies evolutionary teaching'], ['may seem expensive', 'think seriously'], ['well reasoned throughout', 'tightly knit together'], ['current scientific evolutionary bias means', 'sufficient scientific detail'], ['discredited theories without replacement could put evolutionists', 'ethics become dependent upon situations']]
+
+## Analysis for Humanistic ethics ##:
+> Main descriptive text:
+Author, Ies Spetter, was the beloved Leader of the Riverdale Ethical Society (NYC) and founder of the Riverdale Mental Health Clinic. He was a doctoral student in Holland when WWII began. He survived Auschwitz and Buchenwald.Book illustrates his militant humanism, analyzing the impermissible fanaticism that allows the killing of innocents. Dr. Spetter, from his wealth as counseling, clergyman, and professor of Social Psychology, calls for a nurturing of trust as the fundamental law of life, a nurturing of the fullness of human capacity, without the delusion of perfectionism.Should be of interest to humanists, ethicists, Buddhists, Liberal and neo-orthodox theologians.
+> Sentiment Analysis: ('positive', (0.729, 'neutral'))
+> Main Points list:
+[['riverdale ethical society', 'riverdale mental health clinic']]
+
+## Analysis for Humanistic psychotherapy. ##:
+> Main descriptive text:
+Albert Ellis (1913-2007) was an American psychologist who developed Rational Emotive Therapy (RET), a cognitive-behavioral therapy.This book (published in 1973) consists of 16 essays (some based on lectures/speeches Ellis gave); many of them had been previously published in a wide variety of publications.Here are some representative quotations from the book:"The essence of humanism ... is that man is fully acknowledged to be human---that is, limited and fallible---and that in no way whatever is he superhuman or subhuman.""Humanistic psychology, by this rule, becomes the study of the whole individual, by logico-empirical means that are distinctly human, for the purpose of helping him live a happier, more self-actualizing, and more creative existence."Rational-emotive therapy "insists that nonetheless the individual himself can, and usually does, significantly intervene between his environmental input and his emotionalized output, and that therefore he has an enormous amount of potential control over what he feels and what he does.""Rational-emotive therapy owes a great debt to Alfred Adler, so much so that it is reasonable to inquire whether RET could not have developed within the Adlerian framework, becoming something of a revisionist approach in this system.""(T)he therapist had better be primarily true to, and interested in, himself, rather than be masochistically self-sacrificial. He can thereby engage in therapy because he likes to do so, because he enjoys helping others help themselves."RET "begins with a premise that for the individual to achieve a fundamental change in his personality structure, he must significantly modify some of his deep-seated and long-standing cognitions and beliefs."
+> Sentiment Analysis: ('positive', (0.838, 'neutral'))
+> Main Points list:
+[['enjoys helping others help', 'speeches ellis gave ); many']]
+
+## Analysis for Social Darwinism ##:
+> Main descriptive text:
+I SociologyII WarIII Social war in democracyIV Some natural rightsV SocialismVI State interferenceVII The forgotten manVIII Democracy and plutocracyIX The concentration of wealth: its economic justificationX Who wins by progress?XI The new social issueXII The absurd effort to make the world over
+> Sentiment Analysis: ('positive', (0.703, 'neutral'))
+> Main Points list:
+[['natural rightsv socialismvi state interferencevii', 'sociologyii wariii social war']]
+
+## Analysis for Education, Humanistic ##:
+> Main descriptive text:
+This a great manual for teachers in a foreign language class,the author mentions a lot of facts and short stories occurring in a classroom that a teacher can't really miss,it reveals the secret skill of a good teacher : empathyYou will find out that &quot;affective education is effective&quot;
+> Sentiment Analysis: ('positive', (0.848, 'neutral'))
+> Main Points list:
+[['foreign language class', 'short stories occurring'], ['wide variety', 'children whatsoever'], ['really good 21st century humanistic language books', 'adults actually made papier mach'], ['would recommend', 'finding community service scholarships'], ['environmentalists seeking financial support', 'fellowship resource guide books available'], ['wonderful resource', 'free environment'], ['educational methods courses', 'book offers practical suggestions']]
